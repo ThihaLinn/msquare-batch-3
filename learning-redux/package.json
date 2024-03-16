@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.6",
+    "typescript": "^5.4.2"
+  }
+}
